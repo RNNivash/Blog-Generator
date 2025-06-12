@@ -1,7 +1,11 @@
 
 # 🤖 Gemini Blog Generator 🧠
+👉 [Blog Generator](https://nivash-blog-generator-wvg45smwd5cnopkvfvdxia.streamlit.app/)
+---
 
 Generate custom, professional blog content instantly using **Google's Gemini Flash 1.5** — a lightning-fast LLM from Google AI — all in a simple and clean Streamlit web app.
+
+---
 <img width="1029" alt="Image" src="https://github.com/user-attachments/assets/36947b36-75e5-44df-aa24-8f361e4d10c9" />
 ---
 
